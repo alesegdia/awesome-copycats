@@ -4,7 +4,7 @@
 # dependencies: make, git
 
 DESTDIR=~/.config/awesome
-PROJECT=copycat-killer/awesome-copycats
+PROJECT=alesegdia/awesome-copycats
 
 # $(swap_dialog)
 define swap_dialog
